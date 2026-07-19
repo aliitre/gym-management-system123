@@ -1,0 +1,6 @@
+{
+  "name": "Gym Management System",
+  "description": "لوحة تحكم احترافية لإدارة الاشتراكات، الأعضاء، الحضور، والمدربين، مع ميزة التخطيط الرياضي والغذائي المدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
